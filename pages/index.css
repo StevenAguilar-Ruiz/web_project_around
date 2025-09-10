@@ -181,3 +181,12 @@
   fill: black;
   stroke: none;
 }
+.footer {
+  max-width: 880px;
+  margin: 67px auto 60px;
+}
+.footer__copyright {
+  font-family: "Inter-Regular", Arial, Helvetica, sans-serif;
+  line-height: 1;
+  color: #545454;
+}
